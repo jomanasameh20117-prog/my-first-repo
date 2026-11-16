@@ -1,0 +1,14 @@
+ABOUT ME
+
+Name: Jomana Sameh
+Field of Study: Computer Engineering
+
+Interests:
+- Software Development
+- Technology
+- Programming
+
+Current Learning Goals:
+- Improving my programming skills.
+- Understanding Git and GitHub.
+- Learning how to build software projects.
